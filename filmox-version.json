@@ -1,1 +1,8 @@
-{"download_url":"https://muse.ai/files/805628075975958/3140441076153255/tpy16tvsj7ikb5vi2ffjrvxj/FILMOX-2.6.3.apk","latest_version":37,"message":"O Filmox está em manutenção. Saiu uma versão nova — actualiza para continuares a ver.","min_version":37}
+{
+  "min_version": 38,
+  "latest_version": 38,
+  "download_url": "https://muse.ai/files/805628075975958/2235393637860641/7rbklsmetvrx16ogva47yv6q/FILMOX-2.6.4.apk",
+  "message": "O Filmox está em manutenção. Saiu uma versão nova — actualiza para continuares a ver.",
+  "expires_at": 1809021889242,
+  "sig": "CTeA7StF/qBCgp0lfbkUKkOOXqXLrUB00p+CGUG0V4DGneTR1S0p8a12KHexMIIjdo9alJgi1CzUtbw1WjcTAQ=="
+}
