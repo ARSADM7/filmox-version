@@ -1,8 +1,8 @@
 {
-  "min_version": 38,
-  "latest_version": 38,
-  "download_url": "https://muse.ai/files/805628075975958/2235393637860641/7rbklsmetvrx16ogva47yv6q/FILMOX-2.6.4.apk",
-  "message": "O Filmox está em manutenção. Saiu uma versão nova — actualiza para continuares a ver.",
+  "min_version": 40,
+  "latest_version": 40,
+  "message": "Saiu a Filmox 2.7.1: canais organizados por categorias, imagens verificadas e o directo afinado para tocar sem parar. Actualiza para continuar a usar a app.",
+  "download_url": "https://muse.ai/files/805628075975958/2330149871118343/fhr0mt56823lotzv5c2kmxy3/FILMOX-2.7.1.apk",
   "expires_at": 1809021889242,
-  "sig": "CTeA7StF/qBCgp0lfbkUKkOOXqXLrUB00p+CGUG0V4DGneTR1S0p8a12KHexMIIjdo9alJgi1CzUtbw1WjcTAQ=="
+  "sig": "el/ViXYxZE9MfsUFPdaxoLVUVxAnidwSqFy9TGa75/19P10gwHhlr1LBsI6hhJ5hmtXvZuWqWei5/iVeLkDdBw=="
 }
