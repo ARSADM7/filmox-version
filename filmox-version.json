@@ -1,8 +1,8 @@
 {
-  "min_version": 40,
-  "latest_version": 40,
-  "message": "Saiu a Filmox 2.7.1: canais organizados por categorias, imagens verificadas e o directo afinado para tocar sem parar. Actualiza para continuar a usar a app.",
+  "min_version": 41,
+  "latest_version": 41,
+  "message": "A Filmox 2.7.1 foi desligada. Esta a chegar a 2.7.2 com o sistema de actualizacoes corrigido - volta a tentar dentro de pouco tempo.",
   "download_url": "https://muse.ai/files/805628075975958/2330149871118343/fhr0mt56823lotzv5c2kmxy3/FILMOX-2.7.1.apk",
   "expires_at": 1809021889242,
-  "sig": "el/ViXYxZE9MfsUFPdaxoLVUVxAnidwSqFy9TGa75/19P10gwHhlr1LBsI6hhJ5hmtXvZuWqWei5/iVeLkDdBw=="
+  "sig": "RrZKCHcKViZjxI8U95jxGAdIeU5/BxFYkveDOcGoP/LbqLNHgPSXxK36NZ2McQbGgjg1i9RRkBErBM83qnoiBQ=="
 }
