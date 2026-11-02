@@ -1,8 +1,8 @@
 {
-  "min_version": 42,
-  "latest_version": 42,
-  "message": "A Filmox 2.8 ja esta disponivel, com o player corrigido para nao travar. Actualiza para continuar a usar a app.",
-  "download_url": "https://muse.ai/files/805628075975958/1400308585195095/8mk9l6rbhjdscsflm6jhvppe/FILMOX-2.8.apk",
+  "min_version": 43,
+  "latest_version": 43,
+  "message": "A Filmox 2.9 ja esta disponivel, com correccoes de seguranca e o player suave. Actualiza para continuar a usar a app.",
+  "download_url": "https://muse.ai/files/805628075975958/2620826355087638/pmdom5ap6wi9fq29kq5zsaa2/FILMOX-2.9.apk",
   "expires_at": 1809021889242,
-  "sig": "MJthm4yod4j15sk5muB5uRKr0LXUy5tIEjCtIkM1oH+oAGFlLBoB5q3lsUIJ4VAGNLj5aRpLyGiMgM9nXN3rCg=="
+  "sig": "IWzvpPrpgngySLWeYInHdE20lUrnxjTQRx5Jt3z8vP8UuUscBIHUmpp37uodREgla6+ASyNv6KPbKiFLk1N1AA=="
 }
