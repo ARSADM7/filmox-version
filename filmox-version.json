@@ -1,8 +1,8 @@
 {
   "min_version": 47,
-  "latest_version": 47,
-  "message": "A Filmox 4.1 ja esta disponivel, com mais canais. Actualiza para continuar a usar a app.",
-  "download_url": "https://www.mediafire.com/file/73dcqvksqfp271i/FILMOX-4.1.apk/file",
+  "latest_version": 48,
+  "message": "A Filmox 4.1.1 ja esta disponivel, com o novo numero de WhatsApp. Actualiza para continuar a usar a app.",
+  "download_url": "https://www.mediafire.com/file/5w3x18nql6a4xkl/FILMOX-4.1.1.apk/file",
   "expires_at": 1809021889242,
-  "sig": "driFF1yhoj4kWgdQPIb8Asb3+4rpPz53rEXk3gUzIwXZtp9860WuJ9ekoQniJPVHTyyq4H5fNSjm8DjBwsksDQ=="
+  "sig": "xc/38U15pF1YhcuHh0c+f2m0wZGwNYCuqZBR+VLzEjch+dt7m2vnIEwYQmew7ueJz1cTQuonoWSreGajsWekDA=="
 }
