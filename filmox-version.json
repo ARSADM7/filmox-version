@@ -1,8 +1,1 @@
-{
-  "min_version": 47,
-  "latest_version": 48,
-  "message": "A Filmox 4.1.1 ja esta disponivel, com o novo numero de WhatsApp. Actualiza para continuar a usar a app.",
-  "download_url": "https://www.mediafire.com/file/5w3x18nql6a4xkl/FILMOX-4.1.1.apk/file",
-  "expires_at": 1809021889242,
-  "sig": "xc/38U15pF1YhcuHh0c+f2m0wZGwNYCuqZBR+VLzEjch+dt7m2vnIEwYQmew7ueJz1cTQuonoWSreGajsWekDA=="
-}
+{"min_version":47,"latest_version":48,"message":"A Filmox 4.1.1 já está disponível, com o novo número de WhatsApp. Actualiza para continuar a usar a app.","download_url":"https://www.mediafire.com/file/5w3x18nql6a4xkl/FILMOX-4.1.1.apk/file","expires_at":1809021889242,"sig":"G/JWFO7IwNyl1ldo6oFM/J75bgjwC1GSXhJ5gcMfwyzXENQL/jLDfCAKnPHvZfmPt3HAs10Z1sknaIueTJVoAQ=="}
