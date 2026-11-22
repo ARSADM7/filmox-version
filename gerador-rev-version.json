@@ -1,7 +1,7 @@
 {
-  "min_version": 0,
+  "min_version": 9,
   "latest_version": 9,
-  "message": "A Rev 1.0.8 j\u00e1 est\u00e1 dispon\u00edvel. Actualiza quando puderes.",
+  "message": "A tua vers\u00e3o da Rev j\u00e1 n\u00e3o funciona. Pede a vers\u00e3o nova (1.0.8) no WhatsApp da Filmox: 87 717 4756. N\u00c3O desinstales a app \u2014 actualiza por cima, sen\u00e3o perdes os pacotes e os pedidos guardados neste telem\u00f3vel.",
   "expires_at": 1810764000000,
-  "sig": "Qd7bNSMmzrW9u6s04jTACXWkEL1gC+3uUj5mLXvxk5omEoVgNPtTi+3WzFPvQpGc+w9FPdGMPw0fKiuFiopHAg=="
+  "sig": "Ze0lbOZDd6RwHCmFpNWljxFMabAqCmOwWjgru7hUAfnsGhvDdntdw+0lFWMVvBRmqhUn/EXD4MJ+PLQyWZWsDg=="
 }

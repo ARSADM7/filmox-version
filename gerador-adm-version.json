@@ -1,7 +1,7 @@
 {
-  "min_version": 0,
+  "min_version": 11,
   "latest_version": 11,
-  "message": "A ADM 3.0.10 j\u00e1 est\u00e1 dispon\u00edvel. Actualiza quando puderes.",
+  "message": "A tua vers\u00e3o da ADM j\u00e1 n\u00e3o funciona. Pede a vers\u00e3o nova (3.0.10) no WhatsApp da Filmox: 87 717 4756. N\u00c3O desinstales a app \u2014 actualiza por cima.",
   "expires_at": 1810764000000,
-  "sig": "KBDg0J244GuYJgxEWlHIXs7n9XDqFDl5hncwezpRxfvR1KJ6CbZSj+4oxi8JcEtSfbCG1Ipu2qOPDbPl/wMmBA=="
+  "sig": "nVu9wY8RxGvRmAVN6zP6JTFXMDKgQZ9DnpZGKnz3vIdAN3AXGmGIVuqseaiKLOjqqxN7CezJAbD7CqbPt/vaBg=="
 }
